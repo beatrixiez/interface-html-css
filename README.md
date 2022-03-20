@@ -1,2 +1,2 @@
 # interface-html-css
-Repositório que contém códigos estudados em HTML, CSS e JavaScript
+learning how to code with HTML e CSS.
