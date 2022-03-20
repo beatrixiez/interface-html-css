@@ -1,2 +1,2 @@
 # interface-html-css
-learning how to code with HTML e CSS.
+learning how to code with HTML and CSS.
