@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 
-/* * {
-    border: 2px solid blue;
-} */
-
 h1, h2, h3, body, p {
     margin: 0;
 }
@@ -71,7 +67,7 @@ main {
 
 .coluna-menor {
     margin-top: 3rem;
-    width: 16rem; /*de 18 para 17.8 para melhor visualização */
+    width: 16rem; /*de 18 para 16: melhor visualização*/
 }
 
 .coluna-menor h3 {
@@ -192,7 +188,7 @@ main {
 
 footer {
     background-color: #14004d;
-    color: white;
+    color: #fff;
     padding: 1.5rem 0.375rem;
 }
 
