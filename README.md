@@ -1,2 +1,2 @@
 # projects-html-css-js
-my first projects using html, css and javascript
+my first projects using mainly html and css, and javascript
