@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500&display=swap');
-* {
-    /* border: 1px solid #222; */
-}
+
 body {
     background-color: #9EE667;
 }
@@ -55,7 +53,69 @@ body {
     cursor: pointer;
 }
 
-.messages .img-text {
-    width: 2.5rem;
+.messages .message-text p {
+    padding-right: 1rem;
 }
 
+.messages .img-text {
+    width: 2.5rem;
+
+}
+
+
+
+
+
+
+
+@media only screen and (min-width: 500px) {
+
+    .messages .message-text {
+        width: 11rem;
+    }
+
+}
+
+
+@media only screen and (min-width: 600px) {
+
+    .title-content h1 {
+        margin: 2rem 1rem 0;
+    }
+
+    .messages .message-text {
+        width: 13rem;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    .messages .message-text {
+        width: 16rem;
+    }
+
+}
+
+@media only screen and (min-width: 866px) {
+
+    .messages .message-text {
+        width: 13rem;
+    }
+}
+
+@media only screen and (min-width: 920px) {
+
+    .title-content .paragraph {
+        padding: 1rem 4.5rem;
+    }
+    
+}
+
+@media only screen and (min-width: 1268px) {
+
+    .messages .message-text {
+        width: 20rem;
+    }
+    
+}
