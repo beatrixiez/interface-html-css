@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+body {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url('https://cdn.wallpapersafari.com/1/80/8DYndB.png');
+    font-family: 'Roboto', sans-serif;
+}
+
+.message-text {
+    background-color: #dcf8c6;
+    width: 17rem;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0.1rem 0.1rem rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.message-text:hover {
+    box-shadow: 0.2rem 0.2rem rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.img-text {
+    width: 2.5rem;
+}
